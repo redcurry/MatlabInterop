@@ -57,7 +57,7 @@
     </Reference>
     <Reference Include="MWArray, Version=2.19.0.0, Culture=neutral, PublicKeyToken=e1d84a0da19db86f, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files\MATLAB\MATLAB Runtime\v96\toolbox\dotnetbuilder\bin\win64\v4.0\MWArray.dll</HintPath>
+      <HintPath>C:\Program Files\MATLAB\R2019a\toolbox\dotnetbuilder\bin\win64\v4.0\MWArray.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
